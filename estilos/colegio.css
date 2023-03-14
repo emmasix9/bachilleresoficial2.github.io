@@ -1,0 +1,26 @@
+#titulo{
+    color: black;
+    text-align: center;
+        
+}
+#colegio{
+    display: inline-block;
+    width: 15%;
+    float: left;
+    border: double 15px;
+}
+#colegio2{
+    display: inline-block;
+    width: 15%;
+    float: right;
+    border: double 15px;
+}
+#titulo2{
+    color: red;
+    text-align: center;
+}
+#colegio4{
+    display: inline-block;
+    width: 15%;
+    float: right; 
+}

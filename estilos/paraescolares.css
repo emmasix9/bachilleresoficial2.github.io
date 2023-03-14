@@ -1,0 +1,16 @@
+#titulo{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+}
+.titulo2{
+    font-family:cursive;
+    color:green;
+    font-size: 30px;
+}
+.texto1{
+    font-size: 15px;
+}
+img{
+    margin-left: 70px;
+}
